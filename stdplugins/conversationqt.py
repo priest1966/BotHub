@@ -6,7 +6,7 @@ Syntax: .qt
 
   inspired by @Deonnn's being_logical.py
 
-  edited by : @mahshook_bot
+  
 
 """
 
