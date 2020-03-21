@@ -20,7 +20,7 @@ async def leave(e):
 
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
 
-        await e.edit("`I am leaving this chat.....!`")
+        await e.edit("`I'm leaving this chat.....!` @admin `Goodbye aren't forever. It was a pleasant time with you guys..`")
 
         time.sleep(3)
 
