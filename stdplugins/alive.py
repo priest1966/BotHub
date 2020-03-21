@@ -38,11 +38,7 @@ async def amireallyalive(on):
                      f"------------------------------------ \n"
                      f"User: {DEFAULTUSER} \n"
                      " \n"
-                     f"Creator: @Mayur_Karaniya \n"
-                     " \n"
                      f"Owner: `3Cube TeKnoways` \n"
-                     " \n"
-                     f"Website: https://www.facebook.com/Teknoways \n"
                      " \n"
                      f"Userbot: testuserbot \n"
                      "`i can't die`")    
